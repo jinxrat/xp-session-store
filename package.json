@@ -1,6 +1,6 @@
 {
   "name": "xp-session-store",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "An express-session storage with mongoose.connection (MongoDB)",
   "main": "index.js",
   "repository": {
@@ -17,17 +17,17 @@
     "storage",
     "store"
   ],
-  "author": "Valdir Ronis <ask@jinxrat.co> (https://github.com/jinxrat)",
+  "author": "Valdir Ronis <ask@jinxr.at> (https://github.com/jinxrat)",
   "funding": {
     "url": "https://ko-fi.com/jinxrat"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jinxrat/xp-session-store/issues",
-    "email": "ask@jinxrat.co"
+    "email": "ask@jinxr.at"
   },
   "homepage": "https://github.com/jinxrat/xp-session-store#readme",
   "dependencies": {
-    "date-fns": "^2.19.0"
+    "date-fns": "^2.21.3"
   }
 }
