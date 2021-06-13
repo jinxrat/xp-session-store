@@ -54,7 +54,7 @@ app.listen(3000)
 
 That's it!
 
-[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jinxrat)
+[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jinxom)
 
 ----
 
